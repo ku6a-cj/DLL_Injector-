@@ -1,4 +1,4 @@
-# DLL_Injector-
+# DLL_Injector
 Program that inject a Dll to a selected Process
 
 How does it work?
